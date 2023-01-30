@@ -117,8 +117,5 @@ class tools {
             }
         }
         return true;
-    }
-
-    
-
+    } 
 }
